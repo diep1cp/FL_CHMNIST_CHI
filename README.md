@@ -1,4 +1,6 @@
 # FL_CHMNIST_CHI
+I am Chi Phuong Diep. USF Number is 32904573.
+
 I have two solutions in each file of code:
 
 1. CHMNIST - MOBILENETV2 + FL :
